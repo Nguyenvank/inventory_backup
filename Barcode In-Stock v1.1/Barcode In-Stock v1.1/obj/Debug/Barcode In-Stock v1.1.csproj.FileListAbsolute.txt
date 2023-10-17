@@ -1,0 +1,41 @@
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\obj\Debug\Barcode In-Stock v1.1.csproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\obj\Debug\Barcode_In_Stock_v1._1.frmCheckProof.resources
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\obj\Debug\Inventory_Data.frmFinishGoodScanIn_v1o5.resources
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\obj\Debug\Inventory_Data.frmFinishGoodScanIn_v1o5_CheckProof.resources
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\obj\Debug\Inventory_Data.frmFinishGoodScanIn_v1o4_CheckProof.resources
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\obj\Debug\Inventory_Data.frmFinishGoodScanIn_v1o4.resources
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\obj\Debug\Inventory_Data.frmFinishGoodScanIn_v1o3_CheckProof.resources
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\obj\Debug\Inventory_Data.frmFinishGoodScanIn_v1o3.resources
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\obj\Debug\Inventory_Data.frmFinishGoodScanIn_v1o2.resources
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\obj\Debug\Inventory_Data.frmFinishGoodScanIn_v1o1.resources
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\obj\Debug\Inventory_Data.frmFinishGoodScanIn_v1o1_CheckProof.resources
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\obj\Debug\Inventory_Data.frmFinishGoodScanOut_v1o0.resources
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\obj\Debug\Inventory_Data.frmFinishGoodScanOut_v1o0_Details.resources
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\obj\Debug\Inventory_Data.frmFinishGoodScanOut_v1o0_Warning.resources
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\obj\Debug\Inventory_Data.frm_Heating_Room_Temperature_v1o0.resources
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\obj\Debug\Inventory_Data.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\obj\Debug\Inventory_Data.uc_Dispenser_Item_Remain_Scan_V1o1_ProBox.resources
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\obj\Debug\Barcode In-Stock v1.1.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\obj\Debug\Barcode In-Stock v1.1.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\bin\Debug\Barcode In-Stock v1.1.exe.config
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\bin\Debug\Barcode In-Stock v1.1.exe
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\bin\Debug\Barcode In-Stock v1.1.pdb
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\bin\Debug\cls.dll
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\bin\Debug\FlexibleMessageBox.dll
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\bin\Debug\cls.pdb
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\bin\Debug\FlexibleMessageBox.pdb
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\obj\Debug\Barcode In-Stock v1.1.exe
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\obj\Debug\Barcode In-Stock v1.1.pdb
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\obj\Debug\Barcode In-Stock v1.1.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\bin\Debug\nmodbuspc.dll
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\obj\Debug\Inventory_Data.frm_Heating_Room_Temperature_v1o1.resources
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\obj\Debug\Inventory_Data.frmFinishGoodScanOut_v1o1_Details.resources
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\obj\Debug\Inventory_Data.frmFinishGoodScanOut_v1o1_Warning.resources
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\obj\Debug\Inventory_Data.frmFinishGoodScanOut_v1o1.resources
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\obj\Debug\Inventory_Data.frmFinishGoodScanOut_v1o2.resources
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\obj\Debug\Inventory_Data.frmFinishGoodScanOut_v1o2_Details.resources
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\obj\Debug\Inventory_Data.frmFinishGoodScanOut_v1o2_Warning.resources
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\obj\Debug\Inventory_Data.frmFinishGoodScanOut_v1o3.resources
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\obj\Debug\Inventory_Data.frmFinishGoodScanOut_v1o3_Details.resources
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\obj\Debug\Inventory_Data.frmFinishGoodScanOut_v1o3_Warning.resources
+D:\Documents\Visual Studio 2015\Projects\Barcode In-Stock v1.1\Barcode In-Stock v1.1\obj\Debug\Barcode In-Stock v1.1.csproj.CopyComplete

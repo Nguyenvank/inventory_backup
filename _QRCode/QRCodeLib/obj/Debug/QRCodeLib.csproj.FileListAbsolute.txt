@@ -1,0 +1,3 @@
+D:\Documents\Visual Studio 2015\Projects\_QRCode\QRCodeLib\obj\Debug\QRCodeLib.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\_QRCode\QRCodeLib\obj\Debug\ThoughtWorks.QRCode.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\_QRCode\QRCodeLib\obj\Debug\QRCodeLib.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+d:\documents\visual studio 2015\Projects\Cham cong\Cham cong\bin\Debug\Cham cong.exe.config
+d:\documents\visual studio 2015\Projects\Cham cong\Cham cong\bin\Debug\Cham cong.exe
+d:\documents\visual studio 2015\Projects\Cham cong\Cham cong\bin\Debug\Cham cong.pdb
+d:\documents\visual studio 2015\Projects\Cham cong\Cham cong\obj\Debug\Cham_cong.Form1.resources
+d:\documents\visual studio 2015\Projects\Cham cong\Cham cong\obj\Debug\Cham_cong.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Cham cong\Cham cong\obj\Debug\Cham cong.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Cham cong\Cham cong\obj\Debug\Cham cong.exe
+d:\documents\visual studio 2015\Projects\Cham cong\Cham cong\obj\Debug\Cham cong.pdb
+d:\documents\visual studio 2015\Projects\Cham cong\Cham cong\obj\Debug\Cham cong.csproj.ResolveComReference.cache

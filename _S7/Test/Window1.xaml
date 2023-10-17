@@ -1,0 +1,19 @@
+﻿<Window x:Class="S7.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:c="clr-namespace:S7.Controls.S7300;assembly=S7.Controls"
+    Title="S7300 DI/DO" Height="353" >
+    <DockPanel>
+        <ScrollViewer>
+            <StackPanel Orientation="Horizontal">
+                <c:DI16DO16 x:Name="ctrlPlc0" Text="EW4/AW4" Margin="0"/>
+                <c:DI32 x:Name="ctrlPlc1" ValueByte0="7" ValueByte3="123" Margin="0"/>
+                <c:DO32 x:Name="ctrlPlc2" Margin="0"/>
+                <c:DI16 x:Name="ctrlPlc3" Text="MW100" ValueByte0="#55" ValueByte1="77" Margin="0"/>
+                <c:DO16 x:Name="ctrlPlc4" Margin="0"/>
+                <c:DI8 x:Name="ctrlPlc5" TextType="DI 8x230V" Value="80" Margin="0"/>
+                <c:DO8 x:Name="ctrlPlc6" TextType="DO 8x230V" Value="180" Margin="0"/>
+            </StackPanel>
+        </ScrollViewer>        
+    </DockPanel>
+</Window>

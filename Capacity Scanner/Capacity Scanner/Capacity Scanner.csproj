@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{460186CF-3028-4A66-B4C8-CDFB92F49688}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Inventory_Data</RootNamespace>
+    <AssemblyName>Capacity Scanner</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Network Connections.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="cls, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Create DLL\Create DLL\bin\Debug\cls.dll</HintPath>
+    </Reference>
+    <Reference Include="Device.Net, Version=3.1.0.0, Culture=neutral, PublicKeyToken=7b6bc3f8fb80505e, processorArchitecture=MSIL">
+      <HintPath>..\..\Inventory Data\packages\Device.Net.3.1.0\lib\net45\Device.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="HidLibrary, Version=3.3.28.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\Inventory Data\packages\hidlibrary.3.3.28\lib\net45\HidLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.OPCAutomation">
+      <HintPath>..\..\_myOPC\myOPC\Interop.OPCAutomation.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="S7.Net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=d5812d469e84c693, processorArchitecture=MSIL">
+      <HintPath>..\..\Inventory Data\packages\S7netplus.0.1.9\lib\net45\S7.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Usb.Net, Version=3.1.0.0, Culture=neutral, PublicKeyToken=7b6bc3f8fb80505e, processorArchitecture=MSIL">
+      <HintPath>..\..\Inventory Data\packages\Usb.Net.3.1.0\lib\net45\Usb.Net.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Ctrl\uc_CapacityScanner.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Ctrl\uc_CapacityScanner.designer.cs">
+      <DependentUpon>uc_CapacityScanner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ctrl\uc_CapacityScanner_v2o4o2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Ctrl\uc_CapacityScanner_v2o4o2.designer.cs">
+      <DependentUpon>uc_CapacityScanner_v2o4o2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ctrl\uc_CapacityScanner_v2o4o1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Ctrl\uc_CapacityScanner_v2o4o1.designer.cs">
+      <DependentUpon>uc_CapacityScanner_v2o4o1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ctrl\uc_CapacityScanner_v2o6.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Ctrl\uc_CapacityScanner_v2o6.designer.cs">
+      <DependentUpon>uc_CapacityScanner_v2o6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ctrl\uc_CapacityScanner_v2o5.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Ctrl\uc_CapacityScanner_v2o5.designer.cs">
+      <DependentUpon>uc_CapacityScanner_v2o5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ctrl\uc_CapacityScanner_v2o4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Ctrl\uc_CapacityScanner_v2o4.designer.cs">
+      <DependentUpon>uc_CapacityScanner_v2o4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ctrl\uc_CapacityScanner_v2o3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Ctrl\uc_CapacityScanner_v2o3.designer.cs">
+      <DependentUpon>uc_CapacityScanner_v2o3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ctrl\uc_CapacityScanner_v2o2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Ctrl\uc_CapacityScanner_v2o2.designer.cs">
+      <DependentUpon>uc_CapacityScanner_v2o2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ctrl\uc_CapacityScanner_v2o1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Ctrl\uc_CapacityScanner_v2o1.designer.cs">
+      <DependentUpon>uc_CapacityScanner_v2o1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ctrl\uc_CapacityScanner_v3o1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Ctrl\uc_CapacityScanner_v3o1.Designer.cs">
+      <DependentUpon>uc_CapacityScanner_v3o1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ctrl\uc_CapacityScanner_v3o0.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Ctrl\uc_CapacityScanner_v3o0.Designer.cs">
+      <DependentUpon>uc_CapacityScanner_v3o0.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCapacityScanner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCapacityScanner.designer.cs">
+      <DependentUpon>frmCapacityScanner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCapacityScanner_v2o1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCapacityScanner_v2o1.Designer.cs">
+      <DependentUpon>frmCapacityScanner_v2o1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Main.Designer.cs">
+      <DependentUpon>frm_Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Ctrl\uc_CapacityScanner.resx">
+      <DependentUpon>uc_CapacityScanner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ctrl\uc_CapacityScanner_v2o4o2.resx">
+      <DependentUpon>uc_CapacityScanner_v2o4o2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ctrl\uc_CapacityScanner_v2o4o1.resx">
+      <DependentUpon>uc_CapacityScanner_v2o4o1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ctrl\uc_CapacityScanner_v2o6.resx">
+      <DependentUpon>uc_CapacityScanner_v2o6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ctrl\uc_CapacityScanner_v2o5.resx">
+      <DependentUpon>uc_CapacityScanner_v2o5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ctrl\uc_CapacityScanner_v2o4.resx">
+      <DependentUpon>uc_CapacityScanner_v2o4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ctrl\uc_CapacityScanner_v2o3.resx">
+      <DependentUpon>uc_CapacityScanner_v2o3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ctrl\uc_CapacityScanner_v2o2.resx">
+      <DependentUpon>uc_CapacityScanner_v2o2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ctrl\uc_CapacityScanner_v2o1.resx">
+      <DependentUpon>uc_CapacityScanner_v2o1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ctrl\uc_CapacityScanner_v3o1.resx">
+      <DependentUpon>uc_CapacityScanner_v3o1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ctrl\uc_CapacityScanner_v3o0.resx">
+      <DependentUpon>uc_CapacityScanner_v3o0.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCapacityScanner.resx">
+      <DependentUpon>frmCapacityScanner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCapacityScanner_v2o1.resx">
+      <DependentUpon>frmCapacityScanner_v2o1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Main.resx">
+      <DependentUpon>frm_Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Network Connections.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

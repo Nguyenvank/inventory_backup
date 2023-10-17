@@ -1,0 +1,48 @@
+C:\Users\TRON\Documents\Visual Studio 2008\Projects\S7\Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TRON\Documents\Visual Studio 2008\Projects\S7\Test\obj\Debug\Window1.g.cs
+C:\Users\TRON\Documents\Visual Studio 2008\Projects\S7\Test\obj\Debug\App.g.cs
+C:\Users\TRON\Documents\Visual Studio 2008\Projects\S7\Test\obj\Debug\Test_MarkupCompile.cache
+C:\Users\TRON\Documents\Visual Studio 2008\Projects\S7\Test\obj\Debug\Test.exe
+C:\Users\TRON\Documents\Visual Studio 2008\Projects\S7\Test\obj\Debug\Test.pdb
+C:\Users\TRON\Documents\Visual Studio 2008\Projects\S7\Test\bin\Debug\Test.exe
+C:\Users\TRON\Documents\Visual Studio 2008\Projects\S7\Test\bin\Debug\Test.pdb
+C:\Users\TRON\Documents\Visual Studio 2008\Projects\S7\Test\bin\Debug\S7.Controls.dll
+C:\Users\TRON\Documents\Visual Studio 2008\Projects\S7\Test\bin\Debug\S7.Net.dll
+C:\Users\TRON\Documents\Visual Studio 2008\Projects\S7\Test\bin\Debug\S7.Controls.pdb
+C:\Users\TRON\Documents\Visual Studio 2008\Projects\S7\Test\bin\Debug\S7.Net.pdb
+C:\Users\TRON\Documents\Visual Studio 2008\Projects\S7\Test\obj\Debug\Window1.baml
+C:\Users\TRON\Documents\Visual Studio 2008\Projects\S7\Test\obj\Debug\Test.g.resources
+C:\Users\TRON\Documents\Visual Studio 2008\Projects\S7\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\TRON\Documents\Visual Studio 2008\Projects\S7\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+D:\Projects\S7\Test\obj\Debug\Test.exe
+D:\Projects\S7\Test\obj\Debug\Test.pdb
+D:\Projects\S7\Test\bin\Debug\Test.exe
+D:\Projects\S7\Test\bin\Debug\Test.pdb
+D:\Projects\S7\Test\bin\Debug\S7.Controls.dll
+D:\Projects\S7\Test\bin\Debug\S7.Net.dll
+D:\Projects\S7\Test\bin\Debug\S7.Controls.pdb
+D:\Projects\S7\Test\bin\Debug\S7.Net.pdb
+D:\Projects\S7\Test\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\S7\Test\obj\Debug\Window1.baml
+D:\Projects\S7\Test\obj\Debug\Window1.g.cs
+D:\Projects\S7\Test\obj\Debug\App.g.cs
+D:\Projects\S7\Test\obj\Debug\Test_MarkupCompile.cache
+D:\Projects\S7\Test\obj\Debug\Test.g.resources
+D:\Projects\S7\Test\obj\Debug\Test.Properties.Resources.resources
+D:\Projects\S7\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\S7\Test\bin\Debug\Test.exe
+D:\Documents\Visual Studio 2015\Projects\S7\Test\bin\Debug\Test.pdb
+D:\Documents\Visual Studio 2015\Projects\S7\Test\bin\Debug\S7.Controls.dll
+D:\Documents\Visual Studio 2015\Projects\S7\Test\bin\Debug\S7.Net.dll
+D:\Documents\Visual Studio 2015\Projects\S7\Test\bin\Debug\S7.Controls.pdb
+D:\Documents\Visual Studio 2015\Projects\S7\Test\bin\Debug\S7.Net.pdb
+D:\Documents\Visual Studio 2015\Projects\S7\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\S7\Test\obj\Debug\Window1.baml
+D:\Documents\Visual Studio 2015\Projects\S7\Test\obj\Debug\Window1.g.cs
+D:\Documents\Visual Studio 2015\Projects\S7\Test\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2015\Projects\S7\Test\obj\Debug\Test_MarkupCompile.cache
+D:\Documents\Visual Studio 2015\Projects\S7\Test\obj\Debug\Test.g.resources
+D:\Documents\Visual Studio 2015\Projects\S7\Test\obj\Debug\Test.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\S7\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\S7\Test\obj\Debug\Test.exe
+D:\Documents\Visual Studio 2015\Projects\S7\Test\obj\Debug\Test.pdb

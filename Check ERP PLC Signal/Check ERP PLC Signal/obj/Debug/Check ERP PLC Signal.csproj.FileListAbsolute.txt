@@ -1,0 +1,18 @@
+d:\documents\visual studio 2015\Projects\Check ERP PLC Signal\Check ERP PLC Signal\bin\Debug\Check ERP PLC Signal.exe.config
+d:\documents\visual studio 2015\Projects\Check ERP PLC Signal\Check ERP PLC Signal\bin\Debug\Check ERP PLC Signal.exe
+d:\documents\visual studio 2015\Projects\Check ERP PLC Signal\Check ERP PLC Signal\bin\Debug\Check ERP PLC Signal.pdb
+d:\documents\visual studio 2015\Projects\Check ERP PLC Signal\Check ERP PLC Signal\obj\Debug\Check ERP PLC Signal.csproj.ResolveComReference.cache
+d:\documents\visual studio 2015\Projects\Check ERP PLC Signal\Check ERP PLC Signal\obj\Debug\Inventory_Data.frmTestGetTempT3.resources
+d:\documents\visual studio 2015\Projects\Check ERP PLC Signal\Check ERP PLC Signal\obj\Debug\Check_ERP_PLC_Signal.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Check ERP PLC Signal\Check ERP PLC Signal\obj\Debug\Check ERP PLC Signal.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Check ERP PLC Signal\Check ERP PLC Signal\obj\Debug\Check ERP PLC Signal.exe
+d:\documents\visual studio 2015\Projects\Check ERP PLC Signal\Check ERP PLC Signal\obj\Debug\Check ERP PLC Signal.pdb
+D:\Documents\Visual Studio 2015\Projects\Check ERP PLC Signal\Check ERP PLC Signal\obj\Debug\Check ERP PLC Signal.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2015\Projects\Check ERP PLC Signal\Check ERP PLC Signal\bin\Debug\cls.dll
+D:\Documents\Visual Studio 2015\Projects\Check ERP PLC Signal\Check ERP PLC Signal\bin\Debug\cls.pdb
+D:\Documents\Visual Studio 2015\Projects\Check ERP PLC Signal\Check ERP PLC Signal\obj\Debug\Check_ERP_PLC_Signal.Ctrl.frmTestGetTempT3_v2o0.resources
+D:\Documents\Visual Studio 2015\Projects\Check ERP PLC Signal\Check ERP PLC Signal\obj\Debug\Check_ERP_PLC_Signal.frm_Main.resources
+D:\Documents\Visual Studio 2015\Projects\Check ERP PLC Signal\Check ERP PLC Signal\obj\Debug\Check ERP PLC Signal.csproj.CopyComplete
+D:\Documents\Visual Studio 2015\Projects\Check ERP PLC Signal\Check ERP PLC Signal\obj\Debug\Check_ERP_PLC_Signal.Ctrl.frmTestGetTempT3_v2o1.resources
+D:\Documents\Visual Studio 2015\Projects\Check ERP PLC Signal\Check ERP PLC Signal\obj\Debug\Check ERP PLC Signal.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Check ERP PLC Signal\Check ERP PLC Signal\obj\Debug\Check_ERP_PLC_Signal.Ctrl.frmTestGetTempT3_v2o2.resources

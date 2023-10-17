@@ -1,0 +1,33 @@
+D:\Documents\Visual Studio 2015\Projects\Capacity Scanner\Capacity Scanner\bin\Debug\Capacity Scanner.exe.config
+D:\Documents\Visual Studio 2015\Projects\Capacity Scanner\Capacity Scanner\bin\Debug\Capacity Scanner.exe
+D:\Documents\Visual Studio 2015\Projects\Capacity Scanner\Capacity Scanner\bin\Debug\Capacity Scanner.pdb
+D:\Documents\Visual Studio 2015\Projects\Capacity Scanner\Capacity Scanner\bin\Debug\cls.dll
+D:\Documents\Visual Studio 2015\Projects\Capacity Scanner\Capacity Scanner\bin\Debug\cls.pdb
+D:\Documents\Visual Studio 2015\Projects\Capacity Scanner\Capacity Scanner\obj\Debug\Capacity Scanner.csproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2015\Projects\Capacity Scanner\Capacity Scanner\obj\Debug\Inventory_Data.frmCapacityScanner.resources
+D:\Documents\Visual Studio 2015\Projects\Capacity Scanner\Capacity Scanner\obj\Debug\Capacity Scanner.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\Capacity Scanner\Capacity Scanner\obj\Debug\Capacity Scanner.exe
+D:\Documents\Visual Studio 2015\Projects\Capacity Scanner\Capacity Scanner\obj\Debug\Capacity Scanner.pdb
+D:\Documents\Visual Studio 2015\Projects\Capacity Scanner\Capacity Scanner\obj\Debug\Inventory_Data.frmCapacityScanner_V2o1.resources
+D:\Documents\Visual Studio 2015\Projects\Capacity Scanner\Capacity Scanner\obj\Debug\Capacity Scanner.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\Capacity Scanner\Capacity Scanner\obj\Debug\Capacity Scanner.csproj.CopyComplete
+D:\Documents\Visual Studio 2015\Projects\Capacity Scanner\Capacity Scanner\obj\Debug\Inventory_Data.frm_Main.resources
+D:\Documents\Visual Studio 2015\Projects\Capacity Scanner\Capacity Scanner\obj\Debug\Inventory_Data.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\Capacity Scanner\Capacity Scanner\obj\Debug\Inventory_Data.Ctrl.uc_CapacityScanner.resources
+D:\Documents\Visual Studio 2015\Projects\Capacity Scanner\Capacity Scanner\obj\Debug\Inventory_Data.Ctrl.uc_CapacityScanner_v2o4.resources
+D:\Documents\Visual Studio 2015\Projects\Capacity Scanner\Capacity Scanner\obj\Debug\Inventory_Data.Ctrl.uc_CapacityScanner_v2o3.resources
+D:\Documents\Visual Studio 2015\Projects\Capacity Scanner\Capacity Scanner\obj\Debug\Inventory_Data.Ctrl.uc_CapacityScanner_v2o2.resources
+D:\Documents\Visual Studio 2015\Projects\Capacity Scanner\Capacity Scanner\obj\Debug\Inventory_Data.Ctrl.uc_CapacityScanner_v2o1.resources
+D:\Documents\Visual Studio 2015\Projects\Capacity Scanner\Capacity Scanner\obj\Debug\Inventory_Data.Ctrl.uc_CapacityScanner_v2o5.resources
+D:\Documents\Visual Studio 2015\Projects\Capacity Scanner\Capacity Scanner\obj\Debug\Inventory_Data.Ctrl.uc_CapacityScanner_v2o6.resources
+D:\Documents\Visual Studio 2015\Projects\Capacity Scanner\Capacity Scanner\obj\Debug\Inventory_Data.Ctrl.uc_CapacityScanner_v3o0.resources
+D:\Documents\Visual Studio 2015\Projects\Capacity Scanner\Capacity Scanner\bin\Debug\Device.Net.dll
+D:\Documents\Visual Studio 2015\Projects\Capacity Scanner\Capacity Scanner\bin\Debug\HidLibrary.dll
+D:\Documents\Visual Studio 2015\Projects\Capacity Scanner\Capacity Scanner\bin\Debug\Usb.Net.dll
+D:\Documents\Visual Studio 2015\Projects\Capacity Scanner\Capacity Scanner\bin\Debug\HidLibrary.pdb
+D:\Documents\Visual Studio 2015\Projects\Capacity Scanner\Capacity Scanner\obj\Debug\Inventory_Data.Ctrl.uc_CapacityScanner_v3o1.resources
+D:\Documents\Visual Studio 2015\Projects\Capacity Scanner\Capacity Scanner\obj\Debug\Capacity Scanner.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2015\Projects\Capacity Scanner\Capacity Scanner\obj\Debug\Inventory_Data.Ctrl.uc_CapacityScanner_v2o4o1.resources
+D:\Documents\Visual Studio 2015\Projects\Capacity Scanner\Capacity Scanner\bin\Debug\S7.Net.dll
+D:\Documents\Visual Studio 2015\Projects\Capacity Scanner\Capacity Scanner\bin\Debug\S7.Net.xml
+D:\Documents\Visual Studio 2015\Projects\Capacity Scanner\Capacity Scanner\obj\Debug\Inventory_Data.Ctrl.uc_CapacityScanner_v2o4o2.resources
